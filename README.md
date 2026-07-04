@@ -14,7 +14,7 @@ Detailed technical documentation for the Order–Shipping–ARES platform. For a
 7. [Deployment](#7-deployment)
 8. [Testing](#9-testing)
 9. [Design Decisions & Tradeoffs](#10-design-decisions--tradeoffs)
-11. [Known Gaps / Roadmap](#11-known-gaps--roadmap)
+10. [Known Gaps / Roadmap](#11-known-gaps--roadmap)
 
 ---
 
