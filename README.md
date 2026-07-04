@@ -12,9 +12,8 @@ Detailed technical documentation for the Order–Shipping–ARES platform. For a
 5. [API Reference](#5-api-reference)
 6. [Configuration Reference](#6-configuration-reference)
 7. [Deployment](#7-deployment)
-8. [Adding OpenAPI/Swagger Docs](#8-adding-openapiswagger-docs)
-9. [Testing](#9-testing)
-10. [Design Decisions & Tradeoffs](#10-design-decisions--tradeoffs)
+8. [Testing](#9-testing)
+9. [Design Decisions & Tradeoffs](#10-design-decisions--tradeoffs)
 11. [Known Gaps / Roadmap](#11-known-gaps--roadmap)
 
 ---
